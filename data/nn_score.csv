@@ -1,0 +1,13 @@
+classifier,tokenizer,max_features,max_df,accuracy
+neural network,thai_preprocess,5000,0.8,0.7352941176470589
+neural network,thai_preprocess,5000,0.9,0.7254901960784313
+neural network,thai_preprocess,7000,0.9,0.7156862745098039
+neural network,thai_preprocess,No Max Features,0.9,0.696078431372549
+neural network,wangchan,7000,0.8,0.696078431372549
+neural network,wangchan,No Max Features,0.9,0.696078431372549
+neural network,wangchan,5000,0.8,0.6764705882352942
+neural network,wangchan,No Max Features,0.8,0.6764705882352942
+neural network,wangchan,7000,0.9,0.6666666666666666
+neural network,thai_preprocess,No Max Features,0.8,0.6470588235294118
+neural network,wangchan,5000,0.9,0.6470588235294118
+neural network,thai_preprocess,7000,0.8,0.6274509803921569

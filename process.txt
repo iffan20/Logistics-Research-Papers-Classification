@@ -1,0 +1,13 @@
+
+
+step
+recheck label
+
+try wangchan for alternative train model
+try universal sentence encoder (transform text to vec)
+
+validate model 
+- undersampling to alternative option
+
+
+
